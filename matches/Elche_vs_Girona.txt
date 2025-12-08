@@ -1,12 +1,19 @@
 # ИНФОРМАЦИЯ О МАТЧЕ
-Match_ID: Elche vs Girona 
-Турнир: Примера, 15-й тур, регулярный сезон
-Домашняя команда: Elche
-Гостевая команда: Girona 
-Дата и время начала: YYYY-MM-DD 07.12.2025 14:00 UTC+1 (местное время) 
-Эстадио Мануэль Мартинес Валеро
-Эльче, Испания 38°16′01″ с. ш. 0°39′48″ з. д.  /38.26695, -0.66333
-+19°C  солнечно
+Match: Elche vs Girona
+Tournament: La Liga, Regular season, Round 15
+
+Date: 2025-12-07
+Kickoff_local: 14:00
+Timezone: UTC+1
+
+Stadium: Estadio Manuel Martínez Valero
+City: Elche, Spain
+Location: 38.26695, -0.66333
+
+Weather: Clear
+Temperature_C: 19
+Weather_note: солнечно
+
 
 # ФОРМА КОМАНД (последние 10 матчей)
 Форма хозяев: (В=30%   3, Н=30%   3, П=40%   4)
