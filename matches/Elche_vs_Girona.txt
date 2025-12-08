@@ -1,10 +1,17 @@
-Эльче - Жирона
-Elche vs Girona
-Примера, 15-й тур, регулярный сезон, 07.12.2025 14:00 UTC+1
+Match: Elche vs Girona
+Tournament: La Liga, Regular season, Round 15
 
-Эстадио Мануэль Мартинес Валеро
-Эльче, Испания 38°16′01″ с. ш. 0°39′48″ з. д.  /38.26695, -0.66333
-+19°C  солнечно
+Date: 2025-12-07
+Kickoff_local: 14:00
+Timezone: UTC+1
+
+Stadium: Estadio Manuel Martínez Valero
+City: Elche, Spain
+Location: 38.26695, -0.66333
+
+Weather: Clear
+Temperature_C: 19
+Weather_note: солнечно
 ---
 Эльче
 Elche
