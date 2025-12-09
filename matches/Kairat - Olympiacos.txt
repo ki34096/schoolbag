@@ -3,7 +3,7 @@ Match: Kairat vs Olympiacos
 Tournament: UEFA Champions League, League Phase
 Date: 2025-12-09
 Kickoff_local: 20:30
-Timezone: UTC+6
+Timezone: UTC+5
 Stadium: Astana Arena
 City: Astana, Kazakhstan
 Location: 51.10807, 71.40167
