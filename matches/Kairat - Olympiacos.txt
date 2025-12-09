@@ -1,13 +1,13 @@
 # ИНФОРМАЦИЯ О МАТЧЕ
-Match_ID: Kairat - Olympiacos
-Турнир: Лига чемпионов УЕФА, 6-й тур, общий этап
-Домашняя команда: Кайрат
-Гостевая команда: Олимпиакос
-Дата и время начала: YYYY-MM-DD 2025-12-09 20:30 (местное время) UTC/GMT +5 часов
-Стадион: Астана Арена
-Город/Страна: Астана, Казахстан
-Координаты стадиона: lat, lon 51.10807, 71.40167
-51°06′29″ с. ш. 71°24′06″ в. д.
+Match: Kairat vs Olympiacos
+Tournament: UEFA Champions League, League Phase
+Date: 2025-12-09
+Kickoff_local: 20:30
+Timezone: UTC+6
+Stadium: Astana Arena
+City: Astana, Kazakhstan
+Location: 51.10807, 71.40167
+Weather: -19°C, light snow
 
 # ФОРМА КОМАНД (последние 10 матчей)
 Форма хозяев: (В=4, Н=2, П=4)
