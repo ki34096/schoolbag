@@ -1,1 +1,9 @@
+{
+  "conjunction": { "power": 3, "type": "neutral" },
+  "trine":       { "power": 3, "type": "positive" },
+  "sextile":     { "power": 2, "type": "positive" },
+  "square":      { "power": 3, "type": "negative" },
+  "opposition":  { "power": 3, "type": "negative" },
+  "quincunx":    { "power": 1, "type": "chaotic" }
+}
 
