@@ -9,6 +9,3 @@ def load_dictionary(name: str) -> dict:
     with open(DATA_DIR / f"{name}.json", "r", encoding="utf-8") as f:
         return json.load(f)
 
-def is_live(moon_pos, moon_aspects):
-    rules = load_dictionary("terminology")["chart_live"]
-    ...
