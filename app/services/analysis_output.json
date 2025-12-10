@@ -1,0 +1,24 @@
+{
+  "live": {
+    "live": true,
+    "reasons": [
+      "Луна делает аспект к критическому пункту: Fortune (orb 1.5) — риск смещения/событий"
+    ]
+  },
+  "delay": {
+    "risk_level": "Medium",
+    "reasons": [
+      "Церемониальная задержка старта"
+    ],
+    "score": 2
+  },
+  "disbalance": {
+    "score": -1.8,
+    "bias": "Away",
+    "details": [
+      "Neutral/other aspect conjunction",
+      "Negative aspect square subtracts 1.7999999999999998",
+      "Neutral/other aspect conjunction"
+    ]
+  }
+}
